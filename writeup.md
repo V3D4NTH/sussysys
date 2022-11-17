@@ -4,9 +4,11 @@ Linux Cheat Sheet of Commands that I know
 -	cd .. move to the main directory of the current directory
 -	cd~ move to the root directory
 -	cd <dirname> moves to that directory
+  
 2)ls- list all
 -	ls -R lists all files and directories in the current directory with sub-directories
 -	 ls –a lists files, directories and hidden files. Doesn’t show sub-directories
+  
 3)mkdir- makes a new directory
 4)clear- clears the terminal
 5)rmdir- removes the directory
