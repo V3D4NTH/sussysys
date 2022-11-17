@@ -1,5 +1,5 @@
-Linux Cheat Sheet of Commands that I know 
-
+Linux Cheat Sheet of Commands that I now know 
+---------------------------------------------------------------------------------------------------------------------
 1)cd- change directory
 -	cd/  go back to the root directory
 -	cd .. move to the main directory of the current directory
