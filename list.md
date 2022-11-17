@@ -17,6 +17,7 @@ A few things I like:
 - Frank Ocean
 - Nirvana
 - Phoebe Bridgers
+- Daft Punk
 - The Beatles
 - Black Sabbath
 8) Masala Dosa
