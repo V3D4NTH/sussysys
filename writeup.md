@@ -30,9 +30,9 @@ Linux Cheat Sheet of Commands that I know
 
 11)touch <filename>- Creates the file
 
-12)htop, top, bpytop – display all the processes that are being run. Give various information on each process like space taken up, PID etc.
+12)htop, top, bpytop – display all the processes that are being run. Give various information on each process like space taken up, PID etc
 
-13)chmod- allows you to change the mode/permission. Many flags under it that I don’t know of. Only ones I know are +x, +r, +w.
+13)chmod- allows you to change the mode/permission. Many flags under it that I don’t know of. Only ones I know are +x, +r, +w
 
 14) |- Allows you to pipe different commands together
 
@@ -40,10 +40,9 @@ Linux Cheat Sheet of Commands that I know
 
 16) vi, nvim- Opens Vim, NeoVim
 
-
 17) ./- Prefix to run files 
 
-18) oneko, sl, , cowsay, teddy, cmatrix, lolcat, aafire, asciiaquarium and other silly commands to enable animations.
+18) oneko, sl, , cowsay, teddy, cmatrix, lolcat, aafire, asciiaquarium and other silly commands to enable animations
 
   
 Bash commands:
@@ -72,7 +71,7 @@ Bash commands:
 11)	:wq- To quit the editor after scripting
 
 12)	Dd- Deletes lines when it’s not in insert mode
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The brief write-up
 
