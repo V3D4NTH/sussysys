@@ -19,7 +19,7 @@ To run the dashboard, the command is:
 `sudo streamlit run dashboard.py` 
 
 
-# strace helpful commands
+# Helpful strace commands
 1. strace -c -p PID 
 
 2. strace -e trace=write -p PID
