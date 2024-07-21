@@ -1,6 +1,6 @@
 
-## A syscall tracing dashboard
-
+## Syscall Me Maybe
+----
 
 To run the project basically, try: 
 
